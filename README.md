@@ -1,6 +1,10 @@
 # Television Characters NFT Minter 
 
 This project is done for the WEC GDSC Recruitments 2023. I have used Hardhat and Reactjs for this project.
+
+## Video Recording
+https://youtu.be/Vp8Yk0PJyOo
+
 ## Installation steps
 
 - Clone this repo first.
